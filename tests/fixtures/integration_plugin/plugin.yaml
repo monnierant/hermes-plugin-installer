@@ -1,0 +1,6 @@
+name: installer_integration_fixture
+version: 0.0.1
+description: Integration fixture for plugin_installer
+manifest_version: 1
+requires_env: []
+pip_dependencies: []

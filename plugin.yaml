@@ -1,0 +1,6 @@
+name: plugin_installer
+version: 0.1.0
+description: "Discover, statically preview, and install Hermes plugins through the official CLI with explicit consent and strict doctor verification."
+author: "Company OS"
+requires_env: []
+pip_dependencies: []
